@@ -1,2 +1,1 @@
-# PIE_SHOP_PROJECT_WITH_API_AND_ASYNC_PATTERN
-PIE_SHOP_PROJECT_WITH_API_AND_ASYNC_PATTERN
+# https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-5.0
